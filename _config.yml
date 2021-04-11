@@ -30,9 +30,11 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: jekyll-swiss
+theme: minima
+encding: utf-8
 plugins:
   - jekyll-feed
+repository: riwn/my-shiren2
 
 # Exclude from processing.
 # The following items will not be processed, by default.
