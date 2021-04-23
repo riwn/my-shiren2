@@ -4,6 +4,15 @@ tagline: 現在の最果てへの道99FTA自己ベスト 1時間4分20秒 (世�
 baseurl: "https://riwn.github.io/my-shiren2/"
 paginate: 1
 locale: "ja"
+description: "このサイトは風来のシレン2 鬼襲来シレン城のTAに関することを書き連ねるブログです。"
+keyword: 風来のシレン,風来のシレン2,シレン2,シレン２,RTA,TA,シレン64,最果てへの道,最果てへの道99FTA,あーる
+
+links:
+  youtube: "https://www.youtube.com/channel/UCaf0gShSdR6PeVqibl5TNJg"
+  twitch: "https://www.twitch.tv/r_iwn"
+  twitter: "https://twitter.com/r_sprl"
+  niconico: "https://com.nicovideo.jp/community/co3363392"
+  shiren2: "https://shiren2.herokuapp.com/"
 
 # About/contact
 author:
@@ -13,6 +22,12 @@ author:
 # Gems
 gems:
   - jekyll-paginate
+
+#パンくず
+breadcrumbs:
+  root:
+    hide: true
+    image: true
 
 #Others
 markdown: kramdown
