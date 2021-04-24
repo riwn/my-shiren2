@@ -7,3 +7,4 @@ gem 'kramdown'
 gem 'pygments.rb'
 gem 'jekyll-theme-cayman', '~> 0.1.1'
 gem "kramdown-parser-gfm"
+gem 'jekyll-sitemap'

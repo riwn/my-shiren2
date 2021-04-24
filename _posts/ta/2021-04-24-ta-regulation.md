@@ -23,10 +23,10 @@ categories: ta
 
 - ストーリー系
   - データ作成〜親分撃破
-    - <span style="color:rgb(0,0,255);">**ストーリーTA**</span>
-    - <span style="color:rgb(0,0,255);">**ストーリーRTA**</span>
+    - <a href="#ストーリーta"><span style="color:rgb(0,0,255);">**ストーリーTA**</span></a>
+    - <a href="#ストーリーrta"><span style="color:rgb(0,0,255);">**ストーリーRTA**</span></a>
     - 黄金城TA
-    - <span style="color:rgb(0,0,255);">**黄金城RTA**</span>
+    - <a href="#黄金城rta"><span style="color:rgb(0,0,255);">**黄金城RTA**</span></a>
     - 膝枕RTA
   - 親分撃破後〜
     - 装備品掛けRTA
@@ -38,18 +38,18 @@ categories: ta
     - 最果てへの道30FTA
     - 最果てへの道50FTA
     - 最果てへの道70FTA
-    - <span style="color:rgb(0,0,255);">**最果てへの道99FTA**</span>
+    - <a href="#最果てへの道99fta"><span style="color:rgb(0,0,255);">**最果てへの道99FTA**</span></a>
   - 神社の隠し穴
     - 神社の隠し穴20FTA
-    - <span style="color:rgb(0,0,255);">**女王グモ捕獲TA**</span>
+    - <a href="#女王グモ捕獲ta"><span style="color:rgb(0,0,255);">**女王グモ捕獲TA**</span></a>
     - 神社の隠し穴99FTA
     - 裏神社の隠し穴99FTA
   - 中腹の井戸
     - 腕輪取得TA
-    - <span style="color:rgb(0,0,255);">**カラクロイドの盾取得TA**(以下、カラクロTA)</span>
+    - <a href="#カラクロta"><span style="color:rgb(0,0,255);">**カラクロイドの盾取得TA**(以下、カラクロTA)</span></a>
     - 中腹の井戸99FTA
   - 鬼ヶ島
-    - <span style="color:rgb(0,0,255);">**鬼ヶ島ありありTA**</span>
+    - <a href="#鬼ヶ島ありありta"><span style="color:rgb(0,0,255);">**鬼ヶ島ありありTA**</span></a>
     - 鬼ヶ島なしなしTA
 
 ---

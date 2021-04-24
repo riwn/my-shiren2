@@ -23,6 +23,7 @@ author:
 # Gems
 gems:
   - jekyll-paginate
+  - jekyll-sitemap
 
 #パンくず
 breadcrumbs:
