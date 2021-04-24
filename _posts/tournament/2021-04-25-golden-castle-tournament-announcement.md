@@ -98,7 +98,8 @@ categories: tournament
 今回の大会も私が参加する可能性が高いため<span style="color:red;">**ミラーをしていただける方を募集**</span>しています。  
 総合コミュは誰でも配信可能ですので是非お願いします！！
 
-
+# 【使えるツール】
+- [お城素材カウンター](https://shiren2.herokuapp.com/tool/counter)
 
 <style>
     .schedule {
