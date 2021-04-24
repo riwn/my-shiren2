@@ -192,3 +192,7 @@ a:hover { text-decoration: underline; }
 .site-footer-owner { display: block; font-weight: bold; }
 
 .site-footer-credits { color: #819198; }
+
+.about { margin-top: 0; margin-bottom: 0.1rem; }
+.about a { margin-top: 0; margin-bottom: 0.1rem; color: #fff;}
+.about a:hover { text-decoration: underline; }

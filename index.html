@@ -4,7 +4,7 @@ title: {{ site.name }}
 ---
 
 <div id="home">
-  <h1>ブログ一覧</h1>
+  <h2>記事一覧</h2>
   <ul class="posts">
     {% for post in site.posts %}
     <li><span>{{ post.date | date_to_string }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
