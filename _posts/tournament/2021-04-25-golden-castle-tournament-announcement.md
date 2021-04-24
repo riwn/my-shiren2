@@ -3,7 +3,7 @@ layout: post
 title:  "風来のシレン2 2021年GW黄金城大会"
 description: "2020年9月25日から開かれた大会の「風来のシレン2 2021年GW2021年GW黄金城大会」の概要です"
 keyword: "GW黄金城大会"
-date:   2021-04-21 13:00:00
+date:   2021-04-24 11:00:00
 categories: tournament
 ---
 
