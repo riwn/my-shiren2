@@ -33,3 +33,4 @@ breadcrumbs:
 markdown: kramdown
 
 theme: jekyll-theme-cayman
+google_analytics: UA-146776220-2
