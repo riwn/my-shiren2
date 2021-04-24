@@ -26,7 +26,7 @@ categories: tournament
 # 【参加条件】
 - 部門共通
   - 大会を楽しむことができる方
-  - <font color="red">**シレン2が大好きな方(重要)**</font>
+  - **<font color="red">シレン2が大好きな方(重要)</font>**
 - 並走部門
   - 配信ができる環境にいる方
 - 平均部門
