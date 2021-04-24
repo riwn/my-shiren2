@@ -29,4 +29,27 @@ categories: tournament
 
 ---
 
-<span style="font-size:120%;color:rgb(0,0,255);"><span style="font-size:120%;">【大会Discordサーバーについて】</span></span><span><span><span><span></span><br /></span></span></span>今大会からDiscordサーバーを作成しました。<br />URL：<span style="color:rgb(0,0,255);"><a href="https://discord.gg/QbNu5Ku"><span style="color:rgb(0,0,255);">https://discord.gg/QbNu5Ku</span></a></span><br />以下の利用目的のため、作成しました。<br />・参加者のチーム同士の会議(参加者以外入ることのできないチャットルーム)<br />・運営の大会に関する連絡手段<br />・中間発表の得点の連絡等...<br /><br />参加者以外の方も大会の概要を知りたい方やシレン2が好きな方、誰でも参加OKです！<br />興味を持った方や参加予定の皆様はぜひ参加してみてください！<br /><br /><span><span style="color:rgb(0,0,255);"><span style="font-size:120%;"><span style="font-size:120%;">【リスナーの方へのお願い】</span></span></span><br /></span>大会を盛り上げるため、総合コミュにてミラーを予定しています。<br />しかし、運営の私も参加する可能性が高いため<span style="text-decoration:underline;color:rgb(255,0,0);"><strong>ミラーをしていただける方を募集</strong></span>しています。<br />総合コミュは誰でも放送可能です。ぜひお願いします！！<br /><br /><span style="color:rgb(0,0,255);"><span style="font-size:120%;"><span style="font-size:120%;">【ついでに宣伝！！】</span></span></span><br />シレン2の番付サイトへの記録申請募集しています！<br />ぜひ、大会の参加者の方もそうでない方も記録の申請をどしどしして下さい！<br />大会の記録もぜひ、申請してください！<br /><span>サイトURL→<span style="color:rgb(0,0,255);"><a href="https://shiren2.herokuapp.com"><span style="color:rgb(0,0,255);">https://shiren2.herokuapp.com</span></a></span></span><br /><br /><span><span><span><span><span style="font-size:120%;color:rgb(0,0,255);"><span style="font-size:120%;"><span style="font-size:120%;">【最後に皆様にお願い】</span></span></span><br /><span style="font-size:120%;"><span style="font-size:120%;">9月27日は<span style="text-decoration:underline;color:rgb(255,0,0);"><span style="text-decoration:underline;">シレン2の誕生日で20周年</span></span>です！<br />みんなで大会を盛り上げて楽しんで祝いましょう！！<br />シレン2おめでとう！！</span></span></span></span></span></span>
+<span style="font-size:144%;color:rgb(0,0,255);">【大会Discordサーバーについて】</span>  
+今大会もDiscordサーバーを利用します。  
+URL：<span style="color:rgb(51,102,255);"><a href="https://discord.gg/QbNu5Ku">https://discord.gg/QbNu5Ku</a></span>  
+以下の利用目的のため、利用します。
+
+- 参加者のチーム同士の会議(参加者以外入ることのできないチャットルーム)
+- 運営の大会に関する連絡手段<br />・中間発表の得点の連絡等...  
+
+参加者以外の方も大会の概要を知りたい方やシレン2が好きな方、誰でも参加OKです！  
+興味を持った方や参加予定の皆様はぜひ参加してみてください！  
+<span style="color:rgb(0,0,255);font-size:144%;">【リスナーの方へのお願い】</span>  
+大会を盛り上げるため、総合コミュにてミラーを予定しています。  
+しかし、運営の私も参加する可能性が高いため<span style="color:rgb(255,0,0);"><u>**ミラーをしていただける方を募集**</u></span>しています。  
+総合コミュは誰でも放送可能です。ぜひお願いします！！  
+<span style="color:rgb(0,0,255);font-size:144%;">【ついでに宣伝！！】</span>  
+シレン2の番付サイトへの記録申請募集しています！  
+ぜひ、大会の参加者の方もそうでない方も記録の申請をどしどしして下さい！  
+大会の記録もぜひ、申請してください！  
+サイトURL→<span style="color:rgb(0,0,255);"><a href="https://shiren2.herokuapp.com">https://shiren2.herokuapp.com</a></span>  
+
+<span style="color:rgb(0,0,255);font-size:150%;">【最後に皆様にお願い】</span>  
+<span style="font-size:144%;">9月27日は<span style="color:rgb(255,0,0);"><u>シレン2の誕生日で20周年</u></span>です！  
+みんなで大会を盛り上げて楽しんで祝いましょう！！  
+シレン2おめでとう！！</span>

@@ -211,4 +211,5 @@ RTA→<span style="text-decoration:underline;">**外部タイマー**</span>
   - 形見モンスターの利用
   - 形見の壺の利用
   - ギタンの持ち込み
+
 <div style="text-align:right;">参考文献：風来のシレン2 ストーリーTA 上級カットチャートhttps://ch.nicovideo.jp/tansu/blomaga/ar574565</div>
