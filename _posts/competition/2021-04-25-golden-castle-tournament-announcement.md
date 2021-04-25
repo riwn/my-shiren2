@@ -5,6 +5,7 @@ description: "2020年9月25日から開かれた大会の「風来のシレン2 
 keyword: "GW黄金城大会"
 date:   2021-04-24 11:00:00
 categories: competition
+tag: [大会,黄金城大会]
 ---
 
 <div class="schedule">

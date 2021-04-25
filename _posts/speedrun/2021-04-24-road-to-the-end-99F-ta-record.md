@@ -5,6 +5,7 @@ description: "あーるの最果てへの道99FTAの記録更新履歴です。"
 keyword: "最果て記録,Road to the End,Road to the End 99F SpeedRun"
 date:   2021-04-24 02:00:00
 categories: speedrun
+tag: [最果てへの道99FTA]
 ---
 
 過去にブロマガに書いていた記事の書き写しです。  

@@ -5,9 +5,30 @@ title: {{ site.name }}
 
 <div id="home">
   <h2>記事一覧</h2>
-  <ul class="posts">
+  <div class="btn-group mb-3">
+    <button type="button" class="btn btn-info dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      記事検索
+    </button>
+    <div class="dropdown-menu">
+      <a class="dropdown-item" href="/categories">カテゴリ別検索</a>
+      <a class="dropdown-item" href="/tags">タグ別検索</a>
+    </div>
+  </div>
+  <ul class="posts" style="list-style: none;">
     {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    <li>
+      <div class="card mb-3">
+        <div class="row no-gutters">
+          <div class="col-md-8">
+            <div class="card-body">
+              <a href="{{ site.baseurl }}{{ post.url }}">
+                <h6 class="card-title">{{ post.title }}</h6>
+              </a>
+              <p class="card-text"><small class="text-muted"><span>{{ post.date | date_to_string }}</span></small></p>
+            </div>
+          </div>
+        </div>
+      </div>
     </li>
     {% endfor %}
   </ul>
