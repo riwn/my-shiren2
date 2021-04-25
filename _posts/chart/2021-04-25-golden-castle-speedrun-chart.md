@@ -4,13 +4,13 @@ title:  "見ながらプレイするだけで走れる黄金城RTAチャート"
 description: "私がいままでに風来のシレン2の黄金城RTAを走ってきたときのチャートを書いてます。"
 keyword: "黄金城RTA"
 date:   2021-04-25 03:00:00
-categories: [speedrun,chart]
+categories: chart
 ---
 
 # 黄金城RTAについて
 黄金城RTAは完結に言うと、データを作成して黄金城を建てて親分を倒すRTAです  
 シレン2のTAのくくりで言うと、<span style="color:red;">ストーリー系統のTA</span>になります。  
-詳しいレギュレーションは[こちら](/ta/2021/04/24/ta-regulation#黄金城rta)  
+詳しいレギュレーションは[こちら](/speedrun/2021/04/24/ta-regulation#黄金城rta)  
 <br>
 このTAのチャートは最果てへの道のTAや普通のストーリーTA等に比べて相当楽です  
 その理由は以下の3つです  

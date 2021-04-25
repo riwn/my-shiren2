@@ -4,7 +4,7 @@ title:  "シレン2のTA レギュレーションについて"
 description: "レギュレーション"
 keyword: "レギュレーション"
 date:   2021-04-24 03:00:00
-categories: [information,speedrun]
+categories: speedrun
 ---
 
 この記事はブロマガから移行させた記事で、2019年に書いたものです。  
