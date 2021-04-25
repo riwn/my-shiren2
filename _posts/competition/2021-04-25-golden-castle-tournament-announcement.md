@@ -8,8 +8,10 @@ categories: competition
 tag: [大会,黄金城大会]
 ---
 
+![キャプション]({{site.baseurl}}/images/2021_golden_castle_competition.png)
+
 <div class="schedule">
-    <p class="top">大会日程</p>
+    <p class="top" ><u>大会日程</u></p>
     <p class="things">開会式</p>
     <p class="contents">5月1(土)19:00～19:30</p>
     <p class="things">大会期間</p>
