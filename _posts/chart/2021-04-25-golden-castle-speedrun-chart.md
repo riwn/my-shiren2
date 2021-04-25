@@ -70,7 +70,7 @@ categories: chart
 - 初級を潜るときは以下を意識して潜ります
   - <span style="color:red;">**土を2つ確保**</span>(レベリング用)
   - <span style="color:red;">**バクスイ・いかずち・ドラゴン草の確保**</span>(アメンジャ対策/バクスイは合成素材にも利用)
-  - <span style="color:red;">**薬草・命の草の確保**</span>(回復の剣素材)
+  - <span style="color:red;">**回復の剣ベース武器・薬草・命の草の確保**</span>(回復の剣素材)
   - <span style="color:red;">**しあわせ草の確保**</span>(合成素材)
   - <span style="color:red;">**成仏のカマの確保**</span>(初級中級は変化限定なのでゲットできればラッキー)
 - 中腹にたどりついたら以下を行います
@@ -83,6 +83,7 @@ categories: chart
 - いかだにのるとき2つ素材を貰えますが、<span style="color:red;">**貰った瞬間捨てましょう**</span>
 
 ### おまじない準備
+
 - 帰ってきたらおまじないをします
 - <span style="color: DeepSkyBlue;">**おまじない2  [てよだぼ] -> [必中の剣]**</span>
 - 中級解放後、倉庫に入ってすべて預けます(武器と土だけは床に置く)
@@ -107,6 +108,9 @@ categories: chart
 - <span style="color: DeepSkyBlue;">**おまじない15 [ベゲトザ] -> [とうしの腕輪]**</span>
 - ここでおまじないは終了ですが、残り<span style="color:red;">**2回デスルーラ**</span>します
 - マーモ登場です
+
+### 中級攻略
+
 - 倉庫で土と武器盾透視,アメンジャ対策,弟切草等の死亡対策をもって冒険準備
   - この段階では合成素材はまだ持つ必要なし
 - マーモを連れて中級攻略しますが、入るのは<span style="color:red;">**初級から**</span>です
@@ -119,7 +123,7 @@ categories: chart
   - アメンジャはワンチャン死ぬのでマジで注意
 - 山頂についたら中級終了
 
-### 武器盾作成
+### 武器盾作成(上級攻略)
 - まずは上級を出す
   - 海に向かい、巻物を乾かしている人から巻物を貰う
   - もののけ王国の入口付近にある祠から上級開放
@@ -127,6 +131,7 @@ categories: chart
 - <span style="color: DeepSkyBlue;">**おまじない [パゾエバ] ->[レベル+10]**</span>
 - <span style="color:red;">**合成素材**</span>を持っていく
   - 薬草,命,弟切草,白紙,天使,成仏のカマ,しあわせ草など
+- <span style="color:red;">**マーモ**</span>も連れて行く
 - 初級から入って中腹から上級へ
 - <span style="color:red;">**9F～11Fに出るマゼルン**</span>で合成をする
 - 剣は以下の印を入れる
@@ -140,6 +145,7 @@ categories: chart
   - <span style="color:red;">**しあわせ草**</span>
   - <span style="color:red;">**バクスイの巻物**</span>(賛否両論)
   - <span style="color:red;">**皮の盾**</span>(賛否両論)
+- 盾と回復剣優先で作るのが吉
 - 完成するまで上記を繰り返す
 - 武器盾が完成したら中級ループパートへ！
 
