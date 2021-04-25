@@ -5,6 +5,7 @@ description: "こんにちは、シレン2のTAをメインで配信している
 keyword: "挨拶,配信"
 date:   2021-04-23 12:00:00
 categories: about
+permalink: /about
 ---
 
 こんにちは！！  

@@ -4,7 +4,7 @@ title:  "見ながらプレイするだけで走れる黄金城RTAチャート"
 description: "私がいままでに風来のシレン2の黄金城RTAを走ってきたときのチャートを書いてます。"
 keyword: "黄金城RTA"
 date:   2021-04-25 03:00:00
-categories: tournament
+categories: ta
 ---
 
 # 黄金城RTAについて
