@@ -134,6 +134,7 @@ categories: chart
 - <span style="color:red;">**マーモ**</span>も連れて行く
 - 初級から入って中腹から上級へ
 - <span style="color:red;">**9F～11Fに出るマゼルン**</span>で合成をする
+  - マゼルンは9Fが一番出やすいので粘るなら9Fで。
 - 剣は以下の印を入れる
   - <span style="color:red;">**回復の剣**</span>(最優先)
   - <span style="color:red;">**成仏のカマ**</span>(あればラッキー)
