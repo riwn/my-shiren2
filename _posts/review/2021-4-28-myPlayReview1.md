@@ -3,7 +3,7 @@ layout: post
 title:  "最果てへの道99FTA 反省会1"
 description: "配信終わってすぐに最果てへの道99FTAの反省を書いていきます。その1です。"
 keyword: "最果てへの道99FTA,Road to the End,Road to the End 99F SpeedRun"
-date:   2021-04-28 03:00:00
+date:   2021-04-29 03:00:00
 categories: review
 tag: [最果てへの道99FTA,反省会]
 ---
