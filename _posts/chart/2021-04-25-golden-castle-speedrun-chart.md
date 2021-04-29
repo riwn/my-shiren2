@@ -167,7 +167,7 @@ categories: chart
 - 中級で<span style="color:red;">**最高の木を集める**</span>
   - 10F11Fはｹﾝｺﾞｳが出るのでマジで注意。<span style="color:red;">**盾外せ！！！**</span>
   - 行商人に回収されていた場合は、<span style="color:red;">**ころばぬ先の杖**</span>を利用して回収
-- 11Fに到達して、最高の木を集め終わったら、以下を<span style="color:red;">**マーモに預ける**</span>
+- 12Fに到達して、最高の木を集め終わったら、以下を<span style="color:red;">**マーモに預ける**</span>
   - 最高の木
   - 剛剣マンジカブラ
   - 風魔の盾
