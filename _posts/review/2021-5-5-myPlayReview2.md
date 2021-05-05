@@ -23,7 +23,7 @@ Twitchだけでやってたらなんか惜しかった。
 - 透視 1
 - パコトゥシー 1
 
-<iframe src="https://player.twitch.tv/?video=1011629214&parent{{ site.twitch.placeholder }}" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://player.twitch.tv/?video=1011629214&parent={{ site.twitch.placeholder }}" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 ## パコ透視冒険の反省
 
