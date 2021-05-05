@@ -36,3 +36,6 @@ markdown: kramdown
 
 theme: jekyll-theme-cayman
 google_analytics: G-NJP9Z3ZXCX
+
+twitch:
+  placeholder: "shiren2-speedrun.com"
