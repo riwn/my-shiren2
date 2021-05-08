@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "風来のシレン2 2021年GW黄金城大会"
-description: "2020年9月25日から開かれた大会の「風来のシレン2 2021年GW2021年GW黄金城大会」の概要です"
+description: "2021年5月1日から開かれた大会の「風来のシレン2 2021年GW2021年GW黄金城大会」の概要です"
 keyword: "GW黄金城大会"
 date:   2021-04-24 11:00:00
 categories: competition
 tag: [大会,黄金城大会]
 ---
 
-![キャプション]({{site.baseurl}}/images/2021_golden_castle_competition.png)
+![黄金城RTA大会]({{site.baseurl}}/images/2021_golden_castle_competition.png)
 
 <div class="schedule">
     <p class="top" ><u>大会日程</u></p>
