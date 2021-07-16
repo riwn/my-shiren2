@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "見ながらプレイするだけで走れる新ストーリーRTAチャート"
+title:  "見ながらプレイするだけで走れる新ストーリーTAチャート"
 description: "この前発見された新チャートを簡単に記します"
-keyword: "黄金城RTA"
+keyword: "ストーリーTA"
 date:   2021-07-16 03:00:00
 categories: chart
 ---
