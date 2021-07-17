@@ -91,7 +91,7 @@ categories: chart
 - 初級でちょきんの壺を拾って倒れます(ギタンがないならひろわなくてOK)
 - ここからデスルーラ(おまじないしてあずけて倒れる)を繰り返します
 - <span style="color: DeepSkyBlue;">**おまじない4  [ドピセモ] -> [呪いよけの盾]**</span>
-- <span style="color: DeepSkyBlue;">**おまじない5  [ほんうじ] -> [バトルカウンター+3]**</span>
+- <span style="color: DeepSkyBlue;">**おまじない5  [ぎぼびわ] -> [バトルカウンター+3]**</span>
   - 皮かバトカンを初級で拾ってたらこのおまじない必要なし。
 - ここでヒマキチ登場
 - <span style="color: DeepSkyBlue;">**おまじない6  [ざくぬに] -> [合成の壺(6)]**</span>
