@@ -6,21 +6,29 @@
   <body>
     {% include page-header.html %}
     {% include nav-breadcrumbs.html %}
-
-    <section class="main-content">
-
-      {{ content }}
-
-      <div class="third-party-content mt-3">
-        <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a>
-        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-        <a href='https://feedly.com/i/subscription/feed%2Fhttp%3A%2F%2Fshiren2-speedrun.com%2Ffeed.xml'  target='blank'><img id='feedlyFollow' src='http://s3.feedly.com/img/follows/feedly-follow-rectangle-volume-medium_2x.png' alt='follow us in feedly' width='71' height='28'></a>
-        <a href='/feed.xml' target='blank'><img src='/images/rss.png' alt='rssのfeedです' height='28'></a>
+    <div class="row">
+      <div class="col-md-2 d-none d-md-block">
+        {% include left-ads.html %}
       </div>
-
-      {% include page-footer.html %}
-
-    </section>
+      <div class="col-md-8 col-12 d-block main-content">
+        <section>
+          {{ content }}
+          <div class="third-party-content mt-3">
+            <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a>
+            <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            <a href='https://feedly.com/i/subscription/feed%2Fhttp%3A%2F%2Fshiren2-speedrun.com%2Ffeed.xml'  target='blank'><img id='feedlyFollow' src='http://s3.feedly.com/img/follows/feedly-follow-rectangle-volume-medium_2x.png' alt='follow us in feedly' width='71' height='28'></a>
+            <a href='/feed.xml' target='blank'><img src='/images/rss.png' alt='rssのfeedです' height='28'></a>
+          </div>
+        </section>
+      </div>
+      <div class="col-md-2 d-none d-md-block">
+          {% include right-ads.html %}
+      </div>
+      <div class="col-md-12 d-md-block">
+        {% include bottom-ads.html %}
+      </div>
+    </div>
+    {% include page-footer.html %}
     {% if site.google_analytics and jekyll.environment == 'production' %}
       {% include analytics.html %}
     {% endif %}
