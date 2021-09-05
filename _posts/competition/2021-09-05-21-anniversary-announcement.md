@@ -3,7 +3,7 @@ layout: post
 title:  "風来のシレン2 21周年記念 紅白TA合戦"
 description: "「風来のシレン2 21周年記念 紅白TA合戦」の概要です"
 keyword: "紅白TA合戦"
-date:   2021-09-04 14:27:00
+date:   2021-09-05 14:27:00
 categories: competition
 tag: [大会,紅白TA合戦]
 ---
