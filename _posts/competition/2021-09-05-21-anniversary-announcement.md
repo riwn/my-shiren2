@@ -3,7 +3,7 @@ layout: post
 title:  "風来のシレン2 21周年記念 紅白TA合戦"
 description: "「風来のシレン2 21周年記念 紅白TA合戦」の概要です"
 keyword: "紅白TA合戦"
-date:   2021-09-05 14:27:00
+date:   2021-09-04 14:27:00
 categories: competition
 tag: [大会,紅白TA合戦]
 ---
@@ -129,11 +129,13 @@ Twitter:<span style="color:rgb(51,102,255);"><a href="https://twitter.com/r_sprl
 - 人数があまりにも多い場合は3チームにする場合もあります。  
 
 ---
-## 裏企画
+# 【裏企画】
 今年も去年と同じく、<span style="color:rgb(255,0,0);">裏企画</span>があります！！  
 その名も「<span style="color:rgb(255,0,255);font-size:178%;">ももいろ400</span>」  
-<img data-ubi="243344" src="https://bmimg.nicovideo.jp/image/ch2629267/243344/960578b447e46351650fb9e9deea0a88e4fb020d.png" width="680" alt="" />  
-ルールは簡単  
+<img data-ubi="243344" src="https://bmimg.nicovideo.jp/image/ch2629267/243344/960578b447e46351650fb9e9deea0a88e4fb020d.png" width="680" alt="" />
+
+## 参加方法と目的
+
 リスナーも各ダンジョンのクリア画像を  
 ハッシュタグ「#シレン2二十一周年」をつけて  
 ツイッターに一枚上げるごとに<span style="font-size:144%;color:rgb(0,0,255);">5点</span>加算します。  
@@ -143,11 +145,12 @@ Twitter:<span style="color:rgb(51,102,255);"><a href="https://twitter.com/r_sprl
 リスナーのみなさんも久々にシレンやる方も  
 参加者のみんなと一緒に並走して  
 シレン2の21周年を盛り上げていきましょう！  
-※制限はないので一人で何回クリアしてもOKです！！
+※制限はないので一人で何回クリアしてもOKです！！  
+
 ---
 
-
-## 大会Discordサーバーについて
+# 【お知らせ】
+### 大会Discordサーバーについて
 今大会もDiscordサーバーを利用します。  
 URL：<span style="color:rgb(51,102,255);"><a href="https://discord.gg/QbNu5Ku">https://discord.gg/QbNu5Ku</a></span>  
 以下の利用目的のため、利用します。
@@ -159,14 +162,15 @@ URL：<span style="color:rgb(51,102,255);"><a href="https://discord.gg/QbNu5Ku">
 参加者以外の方も大会の概要を知りたい方やシレン2が好きな方、誰でも参加OKです！  
 興味を持った方や参加予定の皆様はぜひ参加してみてください！  
 
-## リスナーの方へのお願い
+### リスナーの方へのお願い
 大会を盛り上げるため、総合コミュにてミラーを予定しています。  
 しかし、運営の私も参加する可能性が高いため<span style="color:rgb(255,0,0);">**<u>ミラーをしていただける方を募集</u>**</span>しています。  
 総合コミュは誰でも放送可能です。ぜひお願いします！！  
 
-## ついでに宣伝！！】
+### ついでに宣伝！！
 Speedrun.comのシレン2の項目を整理しました！  
 詳しくは以下の動画  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AYKNzLilM5E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 ぜひ、大会の参加者の方もそうでない方も記録の申請をどしどしして下さい！  
 大会の記録もぜひ、申請してください！  
 サイトURL→[https://www.speedrun.com/shiren2](https://www.speedrun.com/shiren2)
