@@ -67,7 +67,8 @@ categories: chart
 - 倉庫のマンジカブラを取得して初級潜りを始めます。
 - 初級では以下を意識して潜りましょう
   - <span style="color:red;">**めぐすり草**</span>を拾えたらしっかり確保すること。
-  - <span style="color:red;">**皮の盾+0**</span>もしくは<span style="color:red;">**バトルカウンター**</span>を確保しましょう
+  - <span style="color:red;">**皮の盾+0**</span>もしくは<span style="color:red;">**バトルカウンター+0**</span>を確保しましょう
+  - 上記が確保できないときは<span style="color:red;">**ばん族の盾**</span>を確保しましょう。
 - 死なないように中腹まで行き、たどりついたら以下を行います
   - <span style="color:red;">**保存の壺を2つ購入**</span>
   - <span style="color:red;">**弟切草を大量購入**</span>(買えるだけ買ってOK)
@@ -77,7 +78,7 @@ categories: chart
 - **【リセットポイント1】** 7F もしくは 8F で<span style="color:red;">**ケロケロのワナ**</span>を探します。
   - ケロケロのワナが一つでもある確率 7Fは51%・8Fは69%で出現。
   - 出なければリセでもいいが、次の中級8F(56%)で出すという手もある
-  - 発見したら、<span style="color:red;">**風魔の盾をマックス、ばん族の盾を-3まで弱める**</span>
+  - 発見したら、ワナを踏みまくって<span style="color:red;">**風魔の盾をマックス、ばん族の盾を-3まで弱める**</span>
 - 山頂についたら城の素材を全部捨てましょう
 - いかだにのるとき2つ素材を貰えますが、<span style="color:red;">**貰った瞬間捨てましょう**</span>
 
@@ -103,6 +104,7 @@ categories: chart
   - 最後の一個は中級に行って死にましょう
 - <span style="color: DeepSkyBlue;">**おまじない8  [アトノセ] -> [天使の種]**</span>
 - マーモ登場です
+  - マーモを出すのは初心者向けのチャートですので、記録狙いであれば、おまじない7以降は無視しても大丈夫です。
 
 ### 中級攻略
 
